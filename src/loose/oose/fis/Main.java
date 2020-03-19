@@ -1,4 +1,4 @@
-package loose.oose.fis;
+package loose.oose.fis;//comm 2
 
 import loose.oose.fis.documents.Document;
 import loose.oose.fis.documents.JSON;
